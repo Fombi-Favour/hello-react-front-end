@@ -11,7 +11,6 @@ const initialState = {
 export const fetchGreeting = createAsyncThunk('message/fetchGreeting', async () => {
   try {
     const response = await axios.get(url);
-    console.log(response);
     return response.data.content;
   } catch (err) {
     throw new Error('Failed to fetch greeting');
