@@ -4,6 +4,7 @@
     - [🛠 Built With](#built-with)
         - [Tech Stack](#tech-stack)
         - [Key Features](#key-features)
+    - [Back-end file](#back-end-file)
 - [💻 Getting Started](#getting-started)
     - [Setup](#setup)
     - [Prerequisites](#prerequisites)
@@ -38,6 +39,12 @@
     <li><a href="https://redux.js.org/">Redux</a></li>
   </ul>
 </details>
+
+### Back-end file <a name="back-end-file"></a>
+
+- Project link, [here](https://github.com/Fombi-Favour/hello-rails-back-end)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- Features -->
 
